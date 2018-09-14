@@ -1,0 +1,13 @@
+scalar Date
+scalar Keyword
+
+type Query {
+	freebies: [Freebie]
+}
+
+type Freebie {
+  freebie_id: ID
+  freebie_name: String
+  freebie_description: String
+  freebie_streetAddress: String
+}
