@@ -1,5 +1,11 @@
 # Free Lunch
 
+[ClojuTRE Video](https://www.youtube.com/watch?v=Bi7gvzJ_4OE)
+
+[Slides](https://github.com/DomKM/ethereum-free-lunch/raw/master/slides.pdf)
+
+[GraphQL clojureD Video](https://www.youtube.com/watch?v=sFUd-CtnJv8) (mentioned in video and slides above)
+
 Based on [MemeFactory](https://github.com/district0x/memefactory).
 
 ## Install
